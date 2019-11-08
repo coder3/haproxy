@@ -15,3 +15,5 @@ haproxy
 
 4) "docker-compose down" will remove all the three containers
 
+5) Look at https://www.haproxy.com/blog/the-four-essential-sections-of-an-haproxy-configuration/ to get an overview of the haproxy configuration structure 
+
