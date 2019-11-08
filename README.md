@@ -9,13 +9,9 @@ haproxy
     iii) If path does not contain web1 or web2 it is forwarded to default backend web1:80
 
 
- Basically
- localhost/web1 --> localhost:81
- localhost/web2 --> localhost:82
+2) Basically localhost/web1 --> localhost:81 and localhost/web2 --> localhost:82
 
+3) Ctrl+C will stop all the three containers
 
-
- 2) Ctrl+C will stop all the three containers
-
- 3)"docker-compose down" will remove all the three containers
+4) "docker-compose down" will remove all the three containers
 
